@@ -1,0 +1,10 @@
+ignore
+node_modules
+src/editor/react-extensions/react-test/node_modules
+instrumented
+.nyc_output
+.vscode
+.DS_Store
+.idea
+dist
+coverage/coverage-summary.json
